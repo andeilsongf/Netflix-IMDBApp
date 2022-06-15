@@ -16,8 +16,6 @@
         src="https://user-images.githubusercontent.com/23082238/173832908-4ff1b2c4-295b-4b99-825b-ebf1b0914f46.png"
         alt="Netflix Redesign | IMDB">
 
-
-
 </p>
 
 
@@ -65,7 +63,14 @@ sudo yarn install (ou npm i)
 Start expo
 
 ```
-sudo expo start
+expo start -i
+(or -a for Android)
+```
+
+Start API
+
+```
+yarn api
 ```
 
 ## Tools <a name="tools"></a>
