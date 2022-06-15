@@ -54,7 +54,7 @@ git clone https://github.com/andeilsongf/netflix-imdb.git
 Get inside the folder project
 
 ```
-cd gofinances
+cd netflix-imdb
 ```
 Install dependencies needed
 
